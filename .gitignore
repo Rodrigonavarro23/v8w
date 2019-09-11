@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+libv8/*
+!libv8/.keep
+
+v8/*
+!v8/.keep
